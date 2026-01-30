@@ -11,6 +11,7 @@ Xây dựng chương trình quản lý thư viện lưu thông tin sách và ng�
 Dữ liệu được lưu trữ vào file để đảm bảo tính bền vững.
 
 ##  Yêu cầu chức năng
+ ![yêu cầu của project](target.jpg)
 - Định nghĩa `struct Book` gồm:
   - `id`
   - `title`
